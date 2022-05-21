@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "angular.ng-template",
+    "pranaygp.vscode-css-peek",
+    "visualstudioexptteam.vscodeintellicode",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "rangav.vscode-thunder-client",
+    "abusaidm.html-snippets",
+    "zignd.html-css-class-completion",
+    "johnpapa.Angular2",
+    "formulahendry.auto-rename-tag"
+  ]
+}
